@@ -28,10 +28,11 @@ I also build small independent products and treat this profile as a long-term la
 ## Live projects
 - **Tarot** — AI-flavored tarot card tool: https://reapp.top/tarot
 - **SBTI** — personality test project: https://reapp.top/sbti
+- **Jelly Toys** — squish & slice cute jelly toys, right in the browser (WebGPU): https://reapp.top/jelly
 - **AI Plug** — self-hosted LLM API relay: https://aiplug.work
 - **free-llm-api-deals** — source-linked LLM API deals dataset: https://github.com/RomeroYang/free-llm-api-deals
 
 ## Elsewhere 🌍
 - X / Twitter: https://x.com/ShawnXYang
-- Blog: https://shawn.reapp.top
+- Blog (with a 3D planet homepage): https://shawn.reapp.top
 - More projects: in progress
